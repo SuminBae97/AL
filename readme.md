@@ -1,3 +1,4 @@
 - Leet Code, Programmers, Backjoon 문제풀이
-- 8/21 dp 기초
+- 8/21 dp 기초 
+    - 1로만들기 , RGB , 계단오르기 , 
 - 8/20 dp 개념 + bruteforce 몇개
