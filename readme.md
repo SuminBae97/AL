@@ -1,6 +1,10 @@
 **Leet Code, Programmers, Backjoon 문제풀이**
 
 
+- 8/27
+    -2156 포도주(실패) , 프로그래머스 압축 싪패
+
+
 -8/25
     - stack balanced world
     - max heap
